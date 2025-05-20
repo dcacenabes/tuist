@@ -1,5 +1,4 @@
 import Path
-import ServiceContextModule
 import XCTest
 
 @testable import TuistCore
